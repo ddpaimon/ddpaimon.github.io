@@ -4,7 +4,7 @@
 Биом создает блоки, а мир создает биомы.
 Биом обеспечивает семейство блоков и животных на определенной территории мира.
 Таким образом имеем 4 класса высого уровня: Block, Animal, Biome, World.
-Они указана на рисунке [Высокий уровень](https://github.com/ddpaimon/ddpaimon.github.io/blob/master/CreationalMinecraft/Abstract.jpg)
+Они указана на рисунке [Высокий уровень](CreationalMinecraft/Abstract.jpg)
 Далее задача делится на две: 
 - абстрактная фабрика на прототипах: Block, Animal, Biome
 - абстрактная фабрика сама является прототипом: Biome, World
