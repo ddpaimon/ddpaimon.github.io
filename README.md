@@ -2,5 +2,5 @@
 GitHub site
 Hello all!
 
-
-<img src="https://github.com/ddpaimon/ddpaimon.github.io/blob/master/create%20(1).png">
+Статьи: 
+https://habrahabr.ru/post/334348/[iz-pesochnitsy]-kak-uvazhat-vremya-ili-kak
